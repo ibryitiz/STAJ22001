@@ -1,3 +1,3 @@
 # tincidunt
 Klavye hız testi uygulaması
-çok yakında play store 'da ... 
+
